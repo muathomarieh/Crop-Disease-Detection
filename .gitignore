@@ -1,0 +1,4 @@
+crop_venv/
+venv/
+*/venv/
+*/.venv/
