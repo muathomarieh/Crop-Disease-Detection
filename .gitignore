@@ -2,3 +2,13 @@ crop_venv/
 venv/
 */venv/
 */.venv/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+# macOS
+.DS_Store
+# Data (download separately)
+dataset/
